@@ -1,2 +1,7 @@
 # go-utils
-usefull helpers such as inline if, cast interface{} to struct and etc
+
+> ***do not use in production***
+
+## Example
+
+see test files
